@@ -1,4 +1,5 @@
 # University & Program Dataset (AU / CN / HK / SG / UK)
+- 2026.03
 
 A public dataset of major universities and their programs across four Commonwealth regions (Australia, United Kingdom, Hong Kong, Singapore), plus comprehensive coverage of universities in China. Programs are linked to universities via `university_id`.
 
